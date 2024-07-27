@@ -1,0 +1,6 @@
+@api.sparrow_HostAddress = http://localhost:5207
+
+GET {{api.sparrow_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
